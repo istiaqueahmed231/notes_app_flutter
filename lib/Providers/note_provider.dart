@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../Models/Note.dart';
-import '../repositories/note_repository.dart';
+import '../Repositories/note_repository.dart';
 
 class NoteProvider extends ChangeNotifier {
   final NoteRepository _repository = NoteRepository();

@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:todo_self/Providers/note_provider.dart'; // Make sure this matches Homepage exactly
-import 'package:todo_self/Views//AddNotePage.dart';
-import 'package:todo_self/Views//NotePage.dart';
+import 'package:todo_self/Views/AddNotePage.dart';
 
 import 'package:todo_self/Views/EditNotePage.dart';
 

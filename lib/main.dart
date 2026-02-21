@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'providers/note_provider.dart' hide NoteProvider;
-import 'package:todo_self/Providers/note_provider.dart'; // Make sure this matches Homepage exactly
+import 'Providers/note_provider.dart';
 import 'Views/HomePage.dart';
 
 void main() {
