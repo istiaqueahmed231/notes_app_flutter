@@ -1,4 +1,4 @@
-# Todo Self (Notes App)
+# Simple Notes App
 
 A Flutter application for managing personal notes. This app allows users to create, read, update, and delete notes, with data persisting locally using SQLite.
 
