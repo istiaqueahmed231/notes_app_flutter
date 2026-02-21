@@ -1,6 +1,5 @@
 import '../Models/Note.dart';
 import 'dart:async';
-import 'dart:io';
 import '../Services/db_helper.dart';
 
 class NoteRepository {
